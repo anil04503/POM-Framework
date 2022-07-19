@@ -1,25 +1,25 @@
-2022-07-19 13:05:27,889 - ebanking -INFO - Entered username
-2022-07-19 13:05:28,041 - ebanking -INFO - Entered password
-2022-07-19 13:05:32,571 - ebanking -INFO - clicked submit
-2022-07-19 13:05:40,286 - ebanking -INFO - You Have Succesfully Logged Out!!
-2022-07-19 13:05:43,313 - ebanking -INFO - Login passed
-2022-07-19 13:05:43,597 - ebanking -INFO - Entered username
-2022-07-19 13:05:43,729 - ebanking -INFO - Entered password
-2022-07-19 13:05:46,291 - ebanking -INFO - clicked submit
-2022-07-19 13:05:49,307 - ebanking -INFO - User or Password is not valid
-2022-07-19 13:05:52,323 - ebanking -INFO - Login failed
-2022-07-19 13:05:52,576 - ebanking -INFO - Entered username
-2022-07-19 13:05:53,041 - ebanking -INFO - Entered password
-2022-07-19 13:05:56,151 - ebanking -INFO - clicked submit
-2022-07-19 13:05:59,175 - ebanking -INFO - User or Password is not valid
-2022-07-19 13:06:02,195 - ebanking -INFO - Login failed
-2022-07-19 13:06:02,305 - ebanking -INFO - Entered username
-2022-07-19 13:06:02,389 - ebanking -INFO - Entered password
-2022-07-19 13:06:06,180 - ebanking -INFO - clicked submit
-2022-07-19 13:06:09,192 - ebanking -INFO - User or Password is not valid
-2022-07-19 13:06:12,210 - ebanking -INFO - Login failed
-2022-07-19 13:06:12,427 - ebanking -INFO - Entered username
-2022-07-19 13:06:12,510 - ebanking -INFO - Entered password
-2022-07-19 13:06:15,787 - ebanking -INFO - clicked submit
-2022-07-19 13:06:18,800 - ebanking -INFO - User or Password is not valid
-2022-07-19 13:06:21,824 - ebanking -INFO - Login failed
+2022-07-19 17:20:23,980 - ebanking -INFO - Entered username
+2022-07-19 17:20:24,850 - ebanking -INFO - Entered password
+2022-07-19 17:20:29,657 - ebanking -INFO - clicked submit
+2022-07-19 17:20:36,665 - ebanking -INFO - You Have Succesfully Logged Out!!
+2022-07-19 17:20:39,690 - ebanking -INFO - Login passed
+2022-07-19 17:20:39,807 - ebanking -INFO - Entered username
+2022-07-19 17:20:39,913 - ebanking -INFO - Entered password
+2022-07-19 17:20:42,519 - ebanking -INFO - clicked submit
+2022-07-19 17:20:45,533 - ebanking -INFO - User or Password is not valid
+2022-07-19 17:20:48,546 - ebanking -INFO - Login failed
+2022-07-19 17:20:48,641 - ebanking -INFO - Entered username
+2022-07-19 17:20:48,725 - ebanking -INFO - Entered password
+2022-07-19 17:20:51,661 - ebanking -INFO - clicked submit
+2022-07-19 17:20:54,692 - ebanking -INFO - User or Password is not valid
+2022-07-19 17:20:57,710 - ebanking -INFO - Login failed
+2022-07-19 17:20:57,848 - ebanking -INFO - Entered username
+2022-07-19 17:20:57,928 - ebanking -INFO - Entered password
+2022-07-19 17:21:00,977 - ebanking -INFO - clicked submit
+2022-07-19 17:21:04,011 - ebanking -INFO - User or Password is not valid
+2022-07-19 17:21:07,029 - ebanking -INFO - Login failed
+2022-07-19 17:21:07,167 - ebanking -INFO - Entered username
+2022-07-19 17:21:07,246 - ebanking -INFO - Entered password
+2022-07-19 17:21:10,224 - ebanking -INFO - clicked submit
+2022-07-19 17:21:13,260 - ebanking -INFO - User or Password is not valid
+2022-07-19 17:21:16,291 - ebanking -INFO - Login failed
