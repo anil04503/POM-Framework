@@ -31,7 +31,6 @@ public class Login extends BaseClass
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
 		lp.clickSubmit();
 		try {
 			Thread.sleep(3000);

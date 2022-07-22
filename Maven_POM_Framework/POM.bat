@@ -11,8 +11,11 @@ echo 	*   	   Maven POM Framwork      		  xx-xx-xxxx                      Anil Y
 echo 	*														 *
 echo 	******************************************************************************************************************
 @echo on
-cd C:\Automation_Testing\Maven_POM_Framework
+D:
+cd D:\Automation_Testing\Maven_POM_Framework
 mvn clean install
+
+
 
 
 

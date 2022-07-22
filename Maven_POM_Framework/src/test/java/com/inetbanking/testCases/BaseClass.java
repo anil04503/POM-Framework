@@ -17,6 +17,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.openqa.selenium.io.FileHandler;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
@@ -81,10 +82,15 @@ public class BaseClass {
 	}
 	
 	public void captureScreen(WebDriver driver, String tname) throws IOException {
-		TakesScreenshot ts = (TakesScreenshot) driver;
-		File source = ts.getScreenshotAs(OutputType.FILE);
-		File target = new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png");
-		FileUtils.copyFile(source, target);
+		
+		File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+		try {
+			//FileUtils.copyFile(scrFile, new File(filePath));
+			FileHandler.copy(scrFile, new File(System.getProperty("user.dir") + "/Screenshots/" + tname + ".png"));
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		System.out.println("Screenshot taken");
 	}
 	
