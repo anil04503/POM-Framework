@@ -39,7 +39,7 @@ public class Login extends BaseClass
 			e.printStackTrace();
 		}
 		
-		if(driver.getTitle().equals("Guru99 Bank Manager HomePag"))
+		if(driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 		{
 			System.out.println("if loop");
 			captureScreen(driver,"loginTest");
